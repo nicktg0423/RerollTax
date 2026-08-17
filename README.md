@@ -50,15 +50,6 @@ Your accumulated increase still gets added on top, so the tag is worth exactly $
 
 ---
 
-## What this does to a run
-
-The reroll button stops being a convenience and becomes an economy. Buying more chances to see a card competes directly with buying the card, and the price of looking never comes back down.
-
-Two things get much better than usual as a result: **Overstock** and **Overstock Plus**, because more cards seen per reroll is more value per dollar of tax, and **booster packs**, whose price is fixed and which never touch the counter. Money engines stop being optional.
-
-Measured on a real Yellow Deck / Gold Stake win: 27 rerolls across the run, roughly **$378 spent on rerolls alone**, with the shop displaying **$28** by the end.
-
----
 
 ## Installation
 
