@@ -1,0 +1,11 @@
+{
+    "id": "RerollTax",
+    "name": "RerollTax",
+    "author": ["NickTG"],
+    "description": "Shop reroll cost never resets between rounds. Starts at $1, climbs $1 per reroll, and carries for the entire run.",
+    "prefix": "ntgrrt",
+    "main_file": "RerollTax.lua",
+    "priority": 0,
+    "badge_colour": "0047AB",
+    "version": "1.0.0"
+}
